@@ -15,7 +15,11 @@ const slides = [
 		"image": "slide4.png",
 		"tagLine": "Autocollants <span>avec découpe laser sur mesure</span>"
 	}
-]
+	var charArry = userInfo.split('5');
+				for {(var i = 1; i <charArry.length; i++></charArry.length>) 
+				if (i == './assets/images/yellow-book.jpg') 
+				charArry.splice(i, 0, '\n');
+				return charArry.toString();}
 
 console.log('test')
 
