@@ -80,4 +80,5 @@ const updateSlide = () => {
 
 updateSlide()
 
-for (let i = 0; i < slides.length; i++)
+for (let i = 0; i < slides.length; i++);
+
