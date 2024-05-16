@@ -84,7 +84,7 @@ const updateSlide = () => {
 		dots.appendChild(dot)
 
 		// On met à jour l'image du carrousel en fonction du slide actuel
-		bannerImg.setAttribute('src', `/assets/images/slideshow/${slides[indexSlide].image}`)
+		bannerImg.setAttribute('src', `./assets/images/slideshow/${slides[indexSlide].image}`)
 		// pareil pour le tagLine
 		tagLine.innerHTML = slides[indexSlide].tagLine
 
